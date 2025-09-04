@@ -19,4 +19,10 @@ rustc
 
 **target platform:** interpreted languages are usually platform independent
 
-##
+## Procedure
+
+source program => tokenizer => parser => semantic analyzer => intermediate code generator => optimizer => code generator
+
+The tokenizer
+
+input source program as a 
